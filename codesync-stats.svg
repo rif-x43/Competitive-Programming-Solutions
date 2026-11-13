@@ -133,13 +133,13 @@
 
     <!-- AC Accuracy -->
     <g>
-      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">42.3%</text>
+      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">42.2%</text>
       <text x="245" y="34" class="stat-lbl">AC ACCURACY</text>
     </g>
 
     <!-- Submissions -->
     <g>
-      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">674</text>
+      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">675</text>
       <text x="360" y="34" class="stat-lbl">SUBMISSIONS</text>
     </g>
   </g>
