@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/special-triplets)
+# [Shunno7](https://toph.co/p/fair-distribution)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/special-triplets) |
+| **Problem** | [Shunno7](https://toph.co/p/fair-distribution) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [1755050](https://toph.co/s/1755050) |
+| **Submission** | [1742437](https://toph.co/s/1742437) |
 
 ---
 
