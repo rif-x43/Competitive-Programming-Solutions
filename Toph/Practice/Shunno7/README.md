@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/hasinar-shornomudra)
+# [Shunno7](https://toph.co/p/special-triplets)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/hasinar-shornomudra) |
+| **Problem** | [Shunno7](https://toph.co/p/special-triplets) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2013534](https://toph.co/s/2013534) |
+| **Submission** | [1755050](https://toph.co/s/1755050) |
 
 ---
 
