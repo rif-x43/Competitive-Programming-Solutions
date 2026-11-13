@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/sum-xor)
+# [Shunno7](https://toph.co/p/a-game-of-survival)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/sum-xor) |
+| **Problem** | [Shunno7](https://toph.co/p/a-game-of-survival) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2015563](https://toph.co/s/2015563) |
+| **Submission** | [2015547](https://toph.co/s/2015547) |
 
 ---
 
