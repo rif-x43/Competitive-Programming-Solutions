@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/perceptron-s-panic)
+# [Shunno7](https://toph.co/p/nasa-parallel-coding-contest)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/perceptron-s-panic) |
+| **Problem** | [Shunno7](https://toph.co/p/nasa-parallel-coding-contest) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2016514](https://toph.co/s/2016514) |
+| **Submission** | [2016513](https://toph.co/s/2016513) |
 
 ---
 
