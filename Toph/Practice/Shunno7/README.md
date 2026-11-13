@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/wedding-shopping)
+# [Shunno7](https://toph.co/p/sum-xor)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/wedding-shopping) |
+| **Problem** | [Shunno7](https://toph.co/p/sum-xor) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2015975](https://toph.co/s/2015975) |
+| **Submission** | [2015563](https://toph.co/s/2015563) |
 
 ---
 
