@@ -121,7 +121,7 @@
   <g transform="translate(24, 68)">
     <!-- Solved -->
     <g>
-      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">319</text>
+      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">324</text>
       <text x="0" y="34" class="stat-lbl">TOTAL SOLVED</text>
     </g>
 
@@ -133,13 +133,13 @@
 
     <!-- AC Accuracy -->
     <g>
-      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">46.8%</text>
+      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">48.3%</text>
       <text x="245" y="34" class="stat-lbl">AC ACCURACY</text>
     </g>
 
     <!-- Submissions -->
     <g>
-      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">681</text>
+      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">671</text>
       <text x="360" y="34" class="stat-lbl">SUBMISSIONS</text>
     </g>
   </g>
@@ -148,7 +148,7 @@
   <g>
     <rect x="24" y="118" width="447" height="7" rx="3.5" fill="#21262d"/>
     <g clip-path="url(#bar-clip)">
-      <rect x="24" y="118" width="351.7147335423197" height="7" fill="#58a6ff"/><rect x="375.7147335423197" y="118" width="46.241379310344826" height="7" fill="#3fb950"/><rect x="421.95611285266455" y="118" width="14.012539184952976" height="7" fill="#d29922"/><rect x="435.9686520376175" y="118" width="1.4012539184952977" height="7" fill="#f0883e"/><rect x="437.3699059561128" y="118" width="33.63009404388715" height="7" fill="#a371f7"/>
+      <rect x="24" y="118" width="346.287037037037" height="7" fill="#58a6ff"/><rect x="370.287037037037" y="118" width="45.52777777777778" height="7" fill="#3fb950"/><rect x="415.8148148148148" y="118" width="20.694444444444443" height="7" fill="#d29922"/><rect x="436.50925925925924" y="118" width="1.3796296296296295" height="7" fill="#f0883e"/><rect x="437.88888888888886" y="118" width="33.11111111111111" height="7" fill="#a371f7"/>
       <!-- Continuous Laser Shimmer Beam across Bar -->
       <rect x="24" y="118" width="447" height="7" fill="url(#laser-sweep)"/>
     </g>
@@ -181,7 +181,7 @@
         <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.5s" repeatCount="indefinite"/>
       </circle>
       <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">AC</text>
-      <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">10</text>
+      <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">15</text>
     </g>
     <g transform="translate(297, 137)">
       <rect width="83" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
