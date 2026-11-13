@@ -139,7 +139,7 @@
 
     <!-- Submissions -->
     <g>
-      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">675</text>
+      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">676</text>
       <text x="360" y="34" class="stat-lbl">SUBMISSIONS</text>
     </g>
   </g>
