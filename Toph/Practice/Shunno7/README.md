@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/apu-bhai-the-great-conqueror)
+# [Shunno7](https://toph.co/p/ice-cream-giveaway)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/apu-bhai-the-great-conqueror) |
+| **Problem** | [Shunno7](https://toph.co/p/ice-cream-giveaway) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2016600](https://toph.co/s/2016600) |
+| **Submission** | [2016532](https://toph.co/s/2016532) |
 
 ---
 
