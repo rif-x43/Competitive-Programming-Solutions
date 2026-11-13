@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/another-easy-problem)
+# [Shunno7](https://toph.co/p/shunno7)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/another-easy-problem) |
+| **Problem** | [Shunno7](https://toph.co/p/shunno7) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2110151](https://toph.co/s/2110151) |
+| **Submission** | [2016632](https://toph.co/s/2016632) |
 
 ---
 
