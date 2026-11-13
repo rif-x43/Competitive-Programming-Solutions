@@ -1,0 +1,69 @@
+# A. Number Transformation
+ 
+| Field | Value |
+|---|---|
+| **Contest** | [1674](https://codeforces.com/contest/1674) |
+| **Problem** | [1674A — Number Transformation](https://codeforces.com/contest/1674/problem/A) |
+| **Rating** | 800 |
+| **Tags** | constructive algorithms, math |
+| **Verdict** | ✅ Accepted |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Runtime** | 46 ms |
+| **Memory** | 0 KB |
+
+---
+
+| ⏱ Time Limit | 💾 Memory Limit |
+|---|---|
+| 2 seconds | 512 megabytes |
+
+---
+
+You are given two integers `x` and `y`. You want to choose two **strictly positive** (greater than zero) integers `a` and `b`, and then apply the following operation to `x` **exactly** `a` times: replace `x` with `b · x`.
+
+You want to find two positive integers `a` and `b` such that `x` becomes equal to `y` after this process. If there are multiple possible pairs, you can choose **any of them**. If there is no such pair, report it.
+
+For example: 
+
+ - if `x = 3` and `y = 75`, you may choose `a = 2` and `b = 5`, so that `x` becomes equal to `3 · 5 · 5 = 75`;
+- if `x = 100` and `y = 100`, you may choose `a = 3` and `b = 1`, so that `x` becomes equal to `100 · 1 · 1 · 1 = 100`;
+- if `x = 42` and `y = 13`, there is no answer since you cannot decrease `x` with the given operations.
+
+## Input
+
+The first line contains one integer `t` (`1 ≤ t ≤ 10⁴`) — the number of test cases.
+
+Each test case consists of one line containing two integers `x` and `y` (`1 ≤ x, y ≤ 100`).
+
+## Output
+
+If it is possible to choose a pair of positive integers `a` and `b` so that `x` becomes `y` after the aforementioned process, print these two integers. **The integers you print should be not less than `1` and not greater than `10⁹`** (it can be shown that if the answer exists, there is a pair of integers `a` and `b` meeting these constraints). If there are multiple such pairs, print any of them.
+
+If it is impossible to choose a pair of integers `a` and `b` so that `x` becomes `y`, print the integer `0` twice.
+
+## Examples
+
+**Example:**
+
+```
+3
+3 75
+100 100
+42 13
+```
+
+**Output:**
+
+```
+2 5
+3 1
+0 0
+
+```
+
+---
+
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1674/problem/A)
+
+---
+*Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*

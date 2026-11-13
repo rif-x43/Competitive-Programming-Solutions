@@ -1,0 +1,85 @@
+# B. Mickey Mouse Constructive
+ 
+| Field | Value |
+|---|---|
+| **Contest** | [2211](https://codeforces.com/contest/2211) |
+| **Problem** | [2211B — Mickey Mouse Constructive](https://codeforces.com/contest/2211/problem/B) |
+| **Rating** | 1100 |
+| **Tags** | constructive algorithms, dp, greedy, math |
+| **Verdict** | ✅ Accepted |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Runtime** | 78 ms |
+| **Memory** | 1600 KB |
+
+---
+
+| ⏱ Time Limit | 💾 Memory Limit |
+|---|---|
+| 1.5 seconds | 256 megabytes |
+
+---
+
+Given an array `a`, let `f(a)` be the number of ways to partition `a` into one or more subarrays`∗` such that:
+
+ - Each element appears in exactly one subarray.
+- All subarrays have the same sum.
+
+For example, if `a=[1,1]`, then `f(a)=2`, because there are two such ways to partition `[1,1]`:
+
+ - `[1,1]`, where the only subarray has sum `2`.
+- `[1]+[1]`, where both subarrays have sum `1`.
+
+You are given two integers `x` and `y`. Find the minimum value of `f(a)` over all arrays `a` of length `x+y`, consisting of `x` copies of the number `1`, and `y` copies of the number `-1` in some order. Since this answer may be large, output the answer modulo `676 767 677`. Additionally, you should construct one array that achieves this minimal value.
+
+`∗`An array `b` is a subarray of an array `c` if `b` can be obtained from `c` by the deletion of several (possibly, zero or all) elements from the beginning and several (possibly, zero or all) elements from the end.
+
+## Input
+
+Each test contains multiple test cases. The first line contains the number of test cases `t` (`1 ≤ t ≤ 10⁴`). The description of the test cases follows. 
+
+The first line of each test case contains two integers `x` and `y` (`0 ≤ x,y ≤ 2· 10⁵`). It is guaranteed that `x+y ≥ 1`.
+
+It is guaranteed that the sum of `x` over all test cases does not exceed `2· 10⁵`, and the sum of `y` over all test cases does not exceed `2· 10⁵`.
+
+## Output
+
+For each test case, output two lines: the minimum value of `f(a)` over all valid arrays `a` modulo `676 767 677`, and an example of an array that achieves the minimal result. Note you are minimizing `f(a)`, and taking that minimum value modulo `676 767 677`, not finding the minimal possible result of `f(a)` mod `676 767 677`.
+
+## Examples
+
+**Example:**
+
+```
+4
+2 0
+1 1
+6 7
+1 3
+```
+
+**Output:**
+
+```
+2
+1 1
+1
+1 -1
+1
+-1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1
+2
+-1 -1 -1 1
+
+```
+
+## Note
+
+In the first test case, `x=2` and `y=0`. The only possible array is `a=[1,1]`, with `f(a)=2` as explained above.
+
+In the second case, `x=1` and `y=1`. One possible array that minimizes `f(a)` is `a=[1,-1]`, where `f(a)=1` (as the only way to partition into subarrays with all subarrays having equal sum is `[[1,-1]]`).
+
+---
+
+> 🔗 [View on Codeforces](https://codeforces.com/contest/2211/problem/B)
+
+---
+*Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
