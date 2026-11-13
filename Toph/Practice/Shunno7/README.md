@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/rickshaw-fare-calculator)
+# [Shunno7](https://toph.co/p/another-easy-problem)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/rickshaw-fare-calculator) |
+| **Problem** | [Shunno7](https://toph.co/p/another-easy-problem) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2110201](https://toph.co/s/2110201) |
+| **Submission** | [2110151](https://toph.co/s/2110151) |
 
 ---
 
