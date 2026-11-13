@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/ice-cream-giveaway)
+# [Shunno7](https://toph.co/p/perceptron-s-panic)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/ice-cream-giveaway) |
+| **Problem** | [Shunno7](https://toph.co/p/perceptron-s-panic) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2016532](https://toph.co/s/2016532) |
+| **Submission** | [2016514](https://toph.co/s/2016514) |
 
 ---
 
