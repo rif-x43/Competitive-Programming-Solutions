@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/nasa-parallel-coding-contest)
+# [Shunno7](https://toph.co/p/we-win-it-together)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/nasa-parallel-coding-contest) |
+| **Problem** | [Shunno7](https://toph.co/p/we-win-it-together) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2016513](https://toph.co/s/2016513) |
+| **Submission** | [2016482](https://toph.co/s/2016482) |
 
 ---
 
