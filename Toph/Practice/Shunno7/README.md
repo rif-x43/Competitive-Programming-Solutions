@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/magic-box)
+# [Shunno7](https://toph.co/p/rickshaw-fare-calculator)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/magic-box) |
+| **Problem** | [Shunno7](https://toph.co/p/rickshaw-fare-calculator) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2125979](https://toph.co/s/2125979) |
+| **Submission** | [2110201](https://toph.co/s/2110201) |
 
 ---
 
