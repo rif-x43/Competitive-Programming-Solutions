@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/we-win-it-together)
+# [Shunno7](https://toph.co/p/wedding-shopping)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/we-win-it-together) |
+| **Problem** | [Shunno7](https://toph.co/p/wedding-shopping) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2016482](https://toph.co/s/2016482) |
+| **Submission** | [2015975](https://toph.co/s/2015975) |
 
 ---
 
