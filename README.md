@@ -15,11 +15,11 @@
 ## Profiles
  
 <p align="center">
-  <a href="https://codeforces.com/profile/rif__x43"><img src="assets/codeforces.svg" alt="Codeforces" width="165"></a>
-  <a href="https://leetcode.com/u/rif__x43"><img src="assets/leetcode.svg" alt="LeetCode" width="165"></a>
-  <a href="https://atcoder.jp/users/rif__x43"><img src="assets/atcoder.svg" alt="AtCoder" width="165"></a>
-  <a href="https://cses.fi/user/USER_ID"><img src="assets/cses.svg" alt="CSES" width="165"></a>
-  <a href="https://toph.co/p/rifx43"><img src="assets/toph.svg" alt="Toph" width="165"></a>
+  <a href="https://codeforces.com/profile/rif__x43"><img src="assets/codeforces.svg" alt="Codeforces" width="144"></a>
+  <a href="https://leetcode.com/u/rif__x43"><img src="assets/leetcode.svg" alt="LeetCode" width="144"></a>
+  <a href="https://atcoder.jp/users/rif__x43"><img src="assets/atcoder.svg" alt="AtCoder" width="144"></a>
+  <a href="https://cses.fi/user/USER_ID"><img src="assets/cses.svg" alt="CSES" width="144"></a>
+  <a href="https://toph.co/p/rifx43"><img src="assets/toph.svg" alt="Toph" width="144"></a>
 </p>
 <br>
 
