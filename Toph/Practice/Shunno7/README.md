@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/coin-collection)
+# [Shunno7](https://toph.co/p/apu-bhai-the-great-conqueror)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/coin-collection) |
+| **Problem** | [Shunno7](https://toph.co/p/apu-bhai-the-great-conqueror) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [2016611](https://toph.co/s/2016611) |
+| **Submission** | [2016600](https://toph.co/s/2016600) |
 
 ---
 
