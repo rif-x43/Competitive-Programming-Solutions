@@ -1,16 +1,16 @@
-# [Shunno7](https://toph.co/p/fair-distribution)
+# [Shunno7](https://toph.co/p/decent-arrays)
 
 | Field | Value |
 |---|---|
 | **Platform** | 🟢 Toph |
-| **Problem** | [Shunno7](https://toph.co/p/fair-distribution) |
+| **Problem** | [Shunno7](https://toph.co/p/decent-arrays) |
 | **Contest** | N/A |
 | **Category** | Practice |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 GCC 13.2 |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submission** | [1742437](https://toph.co/s/1742437) |
+| **Submission** | [1742412](https://toph.co/s/1742412) |
 
 ---
 
