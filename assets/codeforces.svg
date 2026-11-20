@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 270" width="200" height="270" role="img" aria-label="Codeforces profile">
+  <defs>
+    <clipPath id="c"><rect width="200" height="270" rx="18"/></clipPath>
+    <radialGradient id="g" cx="0.5" cy="0" r="0.8">
+      <stop offset="0" stop-color="#2096f3" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#2096f3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="270" rx="18" fill="#0d1117"/>
+  <g clip-path="url(#c)">
+    <rect width="200" height="150" fill="url(#g)"/>
+    <rect width="200" height="4" fill="#2096f3"/>
+  </g>
+  <rect x="0.5" y="0.5" width="199" height="269" rx="18" fill="none" stroke="#30363d"/>
+
+  <rect x="63.0" y="24" width="74.0" height="74" rx="20.7" fill="#2096f3" fill-opacity="0.12" stroke="#2096f3" stroke-opacity="0.4"/><image href="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwLjAwIDc1LjAwIDYwMC4wMCA0NTAuMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHpvb21BbmRQYW49Im1hZ25pZnkiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiIHZlcnNpb249IjEuMCI+PHBhdGggZmlsbD0iIzIwOTZmMyIgZD0iTSAyNTcuODEyNSA3NSBMIDM0Mi4xODc1IDc1IEwgMzYwLjkzNzUgODIuMDMxMjUgTCAzNzAuMzEyNSA5My43NSBMIDM3NSAxMDcuODEyNSBMIDM3NSA0OTIuMTg3NSBMIDM2Ny45Njg3NSA1MTAuOTM3NSBMIDM1Ni4yNSA1MjAuMzEyNSBMIDM0Mi4xODc1IDUyNSBMIDI1Ny44MTI1IDUyNSBMIDIzOS4wNjI1IDUxNy45Njg3NSBMIDIyOS42ODc1IDUwNi4yNSBMIDIyNSA0OTIuMTg3NSBMIDIyNSAxMDcuODEyNSBMIDIzMi4wMzEyNSA4OS4wNjI1IEwgMjQzLjc1IDc5LjY4NzUgWiBNIDI1Ny44MTI1IDc1ICIgZmlsbC1vcGFjaXR5PSIxIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48cGF0aCBmaWxsPSIjZmZjMTA2IiBkPSJNIDMyLjgxMjUgMTg3LjUgTCAxMTcuMTg3NSAxODcuNSBMIDEzNS45Mzc1IDE5NC41MzEyNSBMIDE0NS4zMTI1IDIwNi4yNSBMIDE1MCAyMjAuMzEyNSBMIDE1MCA0OTIuMTg3NSBMIDE0Mi45Njg3NSA1MTAuOTM3NSBMIDEzMS4yNSA1MjAuMzEyNSBMIDExNy4xODc1IDUyNSBMIDMyLjgxMjUgNTI1IEwgMTQuMDYyNSA1MTcuOTY4NzUgTCA0LjY4NzUgNTA2LjI1IEwgMCA0OTQuNTMxMjUgTCAwIDIxNy45Njg3NSBMIDkuMzc1IDE5OS4yMTg3NSBMIDIzLjQzNzUgMTg5Ljg0Mzc1IFogTSAzMi44MTI1IDE4Ny41ICIgZmlsbC1vcGFjaXR5PSIxIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48cGF0aCBmaWxsPSIjZjQ0MzM2IiBkPSJNIDQ4Mi44MTI1IDI2Mi41IEwgNTY3LjE4NzUgMjYyLjUgTCA1ODUuOTM3NSAyNjkuNTMxMjUgTCA1OTUuMzEyNSAyODEuMjUgTCA2MDAgMjkyLjk2ODc1IEwgNjAwIDQ5NC41MzEyNSBMIDU5MC42MjUgNTEzLjI4MTI1IEwgNTc2LjU2MjUgNTIyLjY1NjI1IEwgNTY3LjE4NzUgNTI1IEwgNDgyLjgxMjUgNTI1IEwgNDY0LjA2MjUgNTE3Ljk2ODc1IEwgNDU0LjY4NzUgNTA2LjI1IEwgNDUwIDQ5Mi4xODc1IEwgNDUwIDI5NS4zMTI1IEwgNDU3LjAzMTI1IDI3Ni41NjI1IEwgNDY4Ljc1IDI2Ny4xODc1IFogTSA0ODIuODEyNSAyNjIuNSAiIGZpbGwtb3BhY2l0eT0iMSIgZmlsbC1ydWxlPSJub256ZXJvIi8+PC9zdmc+" x="73.0" y="34" width="54.0" height="54.0" preserveAspectRatio="xMidYMid meet"/>
+
+  <text x="100" y="132" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#f0f6fc">Codeforces</text>
+  <text x="100" y="153" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8b949e">@rif__x43</text>
+
+  <line x1="36" y1="173" x2="164" y2="173" stroke="#21262d"/>
+
+  <text x="100" y="209" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#f0f6fc">263</text>
+  <text x="100" y="228" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8b949e">SOLUTIONS</text>
+  <text x="100" y="254" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#2096f3">Max 1246 · Pupil</text>
+</svg>
