@@ -3,7 +3,7 @@
     <clipPath id="seg"><rect x="40" y="415" width="920" height="14" rx="7"/></clipPath>
   </defs>
 
-  <rect x="0.5" y="0.5" width="999" height="499" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="999" height="499" rx="16" fill="#0d1117"/>
 
   <g font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
     <text x="40" y="58" font-size="20" font-weight="700" fill="#f0f6fc">Problem Solved by platform</text>
