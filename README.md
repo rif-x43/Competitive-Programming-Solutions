@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Competitive Programming Solutions" width="100%">
+  <a href="https://github.com/rif-x43/Competitive-Programming-Solutions/tree/main"><img src="assets/banner.svg" alt="Competitive Programming Solutions" width="100%"></a>
 </p>
 
 <br>
@@ -7,7 +7,7 @@
 ## Overview
 
 <p align="center">
-  <img src="assets/stats.svg" alt="Solved problems by platform" width="100%">
+  <a href="https://github.com/rif-x43/Competitive-Programming-Solutions/tree/main"><img src="assets/stats.svg" alt="Solved problems by platform" width="100%"></a>
 </p>
 
 <br>
